@@ -16,4 +16,4 @@ See top lines in R scripts for required R packages.
 # Citation
 
 Coll F, Raven KE, Knight GM, Blane B, Harrison EM, Leek D, Enoch DA, Brown NM, Parkhill J, Peacock SJ. Definition of a genetic relatedness cutoff to exclude recent transmission of meticillin-resistant _Staphylococcus aureus_: a genomic epidemiology analysis. Lancet Microbe. 2020 Dec;1(8):e328-e335. doi: 10.1016/S2666-5247(20)30149-X. PMID: 33313577; PMCID:
-PMC7721685.
+PMC7721685. [URL](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30149-X/fulltext)
