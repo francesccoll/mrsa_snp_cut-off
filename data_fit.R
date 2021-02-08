@@ -1,5 +1,8 @@
 ### Code to fit exponential curve to number of SNPs distribution by time
 
+# If you find this code useful, please cite:
+# Coll et al. Peacock SJ. Definition of a genetic relatedness cutoff to exclude recent transmission of meticillin-resistant Staphylococcus aureus: a genomic epidemiology analysis. Lancet Microbe. 2020 Dec;1(8):e328-e335. doi: 10.1016/S2666-5247(20)30149-X. PMID: 33313577; PMCID: PMC7721685. (https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30149-X/fulltext)
+
 ##########################################################################################################
 ###                                         1. INPUT FILES                                            ####
 ##########################################################################################################
